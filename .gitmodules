@@ -1,9 +1,0 @@
-[submodule "demo1"]
-	path = demo1
-	url = https://github.com/DominicTremblay/w10d3-lecture-aug19
-[submodule "demo2"]
-	path = demo2
-	url = https://github.com/DominicTremblay/w10d3-lecture-aug19
-[submodule "demo3"]
-	path = demo3
-	url = https://github.com/DominicTremblay/w10d3-lecture-aug19
